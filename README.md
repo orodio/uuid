@@ -1,4 +1,4 @@
-# `@orodio/params`
+# `@orodio/uuid`
 
 [![Build Status](https://travis-ci.org/orodio/uuid.svg?branch=master)](https://travis-ci.org/orodio/uuid)
 
