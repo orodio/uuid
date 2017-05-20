@@ -5,7 +5,7 @@
 ### Install
 
 ```
-yarn add @orodio/params
+yarn add @orodio/uuid
 ```
 
 ### Use
